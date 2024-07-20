@@ -1,4 +1,5 @@
-commit 2 for revert
+comparison of staging and working
 
+commit 2 for revert
 
 This is sample File1

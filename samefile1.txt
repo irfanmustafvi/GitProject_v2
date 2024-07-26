@@ -8,3 +8,4 @@ this is comparison change for sample file1
 
 After Merging Content
 This is Stash File & change in File1
+This is stash change untracked file1

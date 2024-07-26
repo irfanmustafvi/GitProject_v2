@@ -7,3 +7,4 @@ Unfortunately, this Batch script is not working as I expected. It is not copying
 this is comparison change for sample file1
 
 After Merging Content
+This is Stash File & change in File1

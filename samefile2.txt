@@ -2,3 +2,4 @@ commit1 for revert
 
 This is sample File2
 this is comparison for sample file2
+This is Stash File & change in File2
